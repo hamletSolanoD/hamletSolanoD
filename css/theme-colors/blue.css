@@ -4,98 +4,98 @@
 */
 
 /* TABLE OF CONTENTS
-	- Theme Blue #4fcbe9
+	- Theme Blue #2390ab
 */
 
 .preloader .box-1 {
-	background: #4fcbe9;
+	background: #2390ab;
 }
 
 .preloader .spinner .lines:after {
-	background: #4fcbe9;
+	background: #2390ab;
 }
 
 a:hover {
-	color: #4fcbe9;
+	color: #2390ab;
 }
 
 .animated-button span {
-	text-shadow: 0 16px 0 #4fcbe9;
+	text-shadow: 0 16px 0 #2390ab;
 }
 
 a.btn:hover,
 .btn:hover,
 .single-post-text input[type="submit"]:hover,
 button:hover {
-	border-color: #4fcbe9;
+	border-color: #2390ab;
 }
 
 a.btn:hover .icon,
 .btn:hover .icon,
 .single-post-text input[type="submit"]:hover .icon,
 button:hover .icon {
-	color: #4fcbe9;
+	color: #2390ab;
 }
 
 .header .top-menu ul li.current-menu-item > a {
-	color: #4fcbe9;
+	color: #2390ab;
 }
 
 .header .top-menu-nav .sub-menu li a:hover,
 .header .top-menu-nav .children li a:hover,
 .header .top-menu-nav .sub-menu li.active a,
 .header .top-menu-nav .children li.active a {
-	color: #4fcbe9;
+	color: #2390ab;
 }
 
 .background-filter {
-	background-color: #4fcbe9;
+	background-color: #2390ab;
 }
 
 .section .titles .subtitle {
-	color: #4fcbe9;
+	color: #2390ab;
 }
 
 .section.started .h-title strong {
-	color: #4fcbe9;
+	color: #2390ab;
 }
 
 .section.started .started-content .h-subtitle,
 .section.started .started-content .typed-subtitle,
 .section.started .started-content .typed-cursor {
-	color: #4fcbe9;
+	color: #2390ab;
 }
 
 .info-list ul li strong {
-	color: #4fcbe9;
+	color: #2390ab;
 }
 
 .resume-item .date {
-	color: #4fcbe9;
+	color: #2390ab;
 }
 
 .resume-item .icon {
-	color: #4fcbe9;
+	color: #2390ab;
 }
 
 .skills .progress .percentage {
-	background: #4fcbe9;
+	background: #2390ab;
 }
 
 .skills .progress .percentage .percent {
-	color: #4fcbe9;
+	color: #2390ab;
 }
 
 .skills.list .name:before {
-	color: #4fcbe9;
+	color: #2390ab;
 }
 
 .skills.dotted .progress .da span {
-	background: #4fcbe9;
+	background: #2390ab;
 }
 
 .skills.circles .progress span {
-	color: #4fcbe9;
+	color: #2390ab;
 }
 
 .skills.circles .progress .bar,
@@ -149,57 +149,57 @@ button:hover .icon {
 .skills.circles .progress.p98 .fill,
 .skills.circles .progress.p99 .fill,
 .skills.circles .progress.p100 .fill {
-	border-color: #4fcbe9;
+	border-color: #2390ab;
 }
 
 .service-item .icon {
-	color: #4fcbe9;
+	color: #2390ab;
 }
 
 .section.works .filters label.glitch-effect {
-	color: #4fcbe9;
+	color: #2390ab;
 }
 
 .box-items .box-item:hover .desc .name {
-	color: #4fcbe9;
+	color: #2390ab;
 }
 
 .box-items .box-item .image .info .centrize {
-	background: #4fcbe9;
+	background: #2390ab;
 }
 
 .box-items .box-item .desc .category {
-	color: #4fcbe9;
+	color: #2390ab;
 }
 
 .contact-form .group-val .label strong {
-	color: #4fcbe9;
+	color: #2390ab;
 }
 
 .contact-info .subname {
-	color: #4fcbe9;
+	color: #2390ab;
 }
 
 .pricing-item .icons {
-	color: #4fcbe9;
+	color: #2390ab;
 }
 
 .pricing-item .feature-list ul li strong {
-	background: #4fcbe9;
+	background: #2390ab;
 }
 
 .reviews-item .company {
-	color: #4fcbe9;
+	color: #2390ab;
 }
 
 .reviews-item .text:before {
-	color: #4fcbe9;
+	color: #2390ab;
 }
 
 blockquote {
-	border-left-color: #4fcbe9;
+	border-left-color: #2390ab;
 }
 
 .footer .socials a:hover {
-	color: #4fcbe9;
+	color: #2390ab;
 }

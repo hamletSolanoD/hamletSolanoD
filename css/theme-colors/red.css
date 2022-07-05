@@ -4,98 +4,98 @@
 */
 
 /* TABLE OF CONTENTS
-	- Theme Red #FA292A
+	- Theme Red #f87060
 */
 
 .preloader .box-1 {
-	background: #FA292A;
+	background: #f87060;
 }
 
 .preloader .spinner .lines:after {
-	background: #FA292A;
+	background: #f87060;
 }
 
 a:hover {
-	color: #FA292A;
+	color: #f87060;
 }
 
 .animated-button span {
-	text-shadow: 0 16px 0 #FA292A;
+	text-shadow: 0 16px 0 #f87060;
 }
 
 a.btn:hover,
 .btn:hover,
 .single-post-text input[type="submit"]:hover,
 button:hover {
-	border-color: #FA292A;
+	border-color: #f87060;
 }
 
 a.btn:hover .icon,
 .btn:hover .icon,
 .single-post-text input[type="submit"]:hover .icon,
 button:hover .icon {
-	color: #FA292A;
+	color: #f87060;
 }
 
 .header .top-menu ul li.current-menu-item > a {
-	color: #FA292A;
+	color: #f87060;
 }
 
 .header .top-menu-nav .sub-menu li a:hover,
 .header .top-menu-nav .children li a:hover,
 .header .top-menu-nav .sub-menu li.active a,
 .header .top-menu-nav .children li.active a {
-	color: #FA292A;
+	color: #f87060;
 }
 
 .background-filter {
-	background-color: #FA292A;
+	background-color: #f87060;
 }
 
 .section .titles .subtitle {
-	color: #FA292A;
+	color: #f87060;
 }
 
 .section.started .h-title strong {
-	color: #FA292A;
+	color: #f87060;
 }
 
 .section.started .started-content .h-subtitle,
 .section.started .started-content .typed-subtitle,
 .section.started .started-content .typed-cursor {
-	color: #FA292A;
+	color: #f87060;
 }
 
 .info-list ul li strong {
-	color: #FA292A;
+	color: #f87060;
 }
 
 .resume-item .date {
-	color: #FA292A;
+	color: #f87060;
 }
 
 .resume-item .icon {
-	color: #FA292A;
+	color: #f87060;
 }
 
 .skills .progress .percentage {
-	background: #FA292A;
+	background: #f87060;
 }
 
 .skills .progress .percentage .percent {
-	color: #FA292A;
+	color: #f87060;
 }
 
 .skills.list .name:before {
-	color: #FA292A;
+	color: #f87060;
 }
 
 .skills.dotted .progress .da span {
-	background: #FA292A;
+	background: #f87060;
 }
 
 .skills.circles .progress span {
-	color: #FA292A;
+	color: #f87060;
 }
 
 .skills.circles .progress .bar,
@@ -149,57 +149,57 @@ button:hover .icon {
 .skills.circles .progress.p98 .fill,
 .skills.circles .progress.p99 .fill,
 .skills.circles .progress.p100 .fill {
-	border-color: #FA292A;
+	border-color: #f87060;
 }
 
 .service-item .icon {
-	color: #FA292A;
+	color: #f87060;
 }
 
 .section.works .filters label.glitch-effect {
-	color: #FA292A;
+	color: #f87060;
 }
 
 .box-items .box-item:hover .desc .name {
-	color: #FA292A;
+	color: #f87060;
 }
 
 .box-items .box-item .image .info .centrize {
-	background: #FA292A;
+	background: #f87060;
 }
 
 .box-items .box-item .desc .category {
-	color: #FA292A;
+	color: #f87060;
 }
 
 .contact-form .group-val .label strong {
-	color: #FA292A;
+	color: #f87060;
 }
 
 .contact-info .subname {
-	color: #FA292A;
+	color: #f87060;
 }
 
 .pricing-item .icons {
-	color: #FA292A;
+	color: #f87060;
 }
 
 .pricing-item .feature-list ul li strong {
-	background: #FA292A;
+	background: #f87060;
 }
 
 .reviews-item .company {
-	color: #FA292A;
+	color: #f87060;
 }
 
 .reviews-item .text:before {
-	color: #FA292A;
+	color: #f87060;
 }
 
 blockquote {
-	border-left-color: #FA292A;
+	border-left-color: #f87060;
 }
 
 .footer .socials a:hover {
-	color: #FA292A;
+	color: #f87060;
 }

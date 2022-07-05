@@ -38,7 +38,7 @@ body {
 	font-size: 14px;
 	line-height: 26px;
 	color: #fff;
-	background: #373b40;
+	background: #434046;
 	letter-spacing: 0;
 	font-weight: 400;
 	-webkit-font-smoothing: antialiased;
@@ -76,7 +76,7 @@ body {
 }
 
 .preloader .box-2 {
-	background: #373b40;
+	background: #434046;
 }
 
 .preloader .spinner {
@@ -139,7 +139,7 @@ body {
 	right: 92px;
 	top: 0;
 	height: 40px;
-	background: #373b40;
+	background: #434046;
 	z-index: 13;
 }
 
