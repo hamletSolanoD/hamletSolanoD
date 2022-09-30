@@ -1,10 +1,3 @@
-/**
-*	Myour - Personal Portfolio Template (HTML)
-*	Version: 1.0
-*	Author: beshleyua
-*	Author URL: http://themeforest.net/user/beshleyua
-*	Copyright © Myour by beshleyua. All Rights Reserved.
-**/
 
 ( function( $ ) {
 	'use strict';
